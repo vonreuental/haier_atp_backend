@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa43e0ee-8e1a-4241-8c82-634b19be81db" name="Default Changelist" comment="" />
+    <list default="true" id="fa43e0ee-8e1a-4241-8c82-634b19be81db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZR85Sg1wUTypEX5BEHXodYMlbS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -127,7 +134,7 @@
       <workItem from="1584791061813" duration="10377000" />
       <workItem from="1584840615853" duration="25614000" />
       <workItem from="1584924517281" duration="73000" />
-      <workItem from="1584924640605" duration="2531000" />
+      <workItem from="1584924640605" duration="2567000" />
     </task>
     <servers />
   </component>
