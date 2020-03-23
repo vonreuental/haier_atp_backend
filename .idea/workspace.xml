@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa43e0ee-8e1a-4241-8c82-634b19be81db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,14 +133,34 @@
       <workItem from="1584791061813" duration="10377000" />
       <workItem from="1584840615853" duration="25614000" />
       <workItem from="1584924517281" duration="73000" />
-      <workItem from="1584924640605" duration="2567000" />
+      <workItem from="1584924640605" duration="2980000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1584951641215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584951641215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1584951664126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1584951664126" />
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1584951640000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584951640000" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1584804741318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -178,6 +197,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584790384829" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584951655278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584951655278" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1584854666288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
